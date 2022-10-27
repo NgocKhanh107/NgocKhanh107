@@ -3,7 +3,7 @@
 📚 My major is Software Engineering 
 🌏 I'm living now in HaNoi City, Viet Nam 
 😅 I'm a newbie in coding 🐧
- 🧐 I'm interested in coding and watching film
+🧐 I'm interested in coding and watching film
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/dokhanh107) 
